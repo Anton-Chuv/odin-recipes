@@ -1,0 +1,48 @@
+.body {
+    margin: 0 auto;
+    width: 900px;
+    font-size: 30px;
+}
+
+.main {
+    margin: auto;
+    width: 400px;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+    font-size: 40px;
+}
+
+.main li {
+    margin: 15px;
+}
+
+.body p{
+    margin-bottom: 0;
+}
+.body ol{
+    margin-top: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: auto;
+}
+
+.main h1 {
+    padding: 8px;
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+
+.body h1 {
+    text-align: center;
+    padding: 8px;
+    background-color: aquamarine;
+}
+
